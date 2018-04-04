@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<rss version="2.0">
+ <channel>
+  <title>Racketeerios: Racketeerios</title>
+  <description>Racketeerios: Racketeerios</description>
+  <link>https://racketeerios.github.io/index.html</link>
+  <lastBuildDate>Wed, 04 Apr 2018 22:19:55 UT</lastBuildDate>
+  <pubDate>Wed, 04 Apr 2018 22:19:55 UT</pubDate>
+  <ttl>1800</ttl>
+  <item>
+   <title>Hello friends</title>
+   <link>https://racketeerios.github.io/2018/04/hello-friends.html?utm_source=all&amp;utm_medium=RSS</link>
+   <guid isPermaLink="false">urn:https-racketeerios-github-io:-2018-04-hello-friends-html</guid>
+   <pubDate>Wed, 04 Apr 2018 22:19:55 UT</pubDate>
+   <author>JimS</author>
+   <description>
+&lt;p&gt;I hope you&amp;rsquo;re doing well.&lt;/p&gt;</description></item></channel></rss>

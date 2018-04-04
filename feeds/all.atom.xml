@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+ <title type="text">Racketeerios: Racketeerios</title>
+ <link rel="self" href="https://racketeerios.github.io/feeds/all.atom.xml" />
+ <link href="https://racketeerios.github.io/index.html" />
+ <id>urn:https-racketeerios-github-io:-index-html</id>
+ <updated>2018-04-04T22:19:55Z</updated>
+ <entry>
+  <title type="text">Hello friends</title>
+  <link rel="alternate" href="https://racketeerios.github.io/2018/04/hello-friends.html?utm_source=all&amp;utm_medium=Atom" />
+  <id>urn:https-racketeerios-github-io:-2018-04-hello-friends-html</id>
+  <published>2018-04-04T22:19:55Z</published>
+  <updated>2018-04-04T22:19:55Z</updated>
+  <author>
+   <name>JimS</name></author>
+  <content type="html">
+&lt;p&gt;I hope you&amp;rsquo;re doing well.&lt;/p&gt;</content></entry></feed>
